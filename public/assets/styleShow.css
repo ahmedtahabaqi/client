@@ -1,0 +1,58 @@
+.abs {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 180px;
+}
+.main {
+  position: relative;
+  margin-bottom: 180px;
+}
+.showcontiner {
+  background-color: #fff;
+  height: 150px;
+  width: 95%;
+  margin: 90px 30px 30px 30px;
+  opacity: 0.5;
+  border-radius: 10px;
+  position: absolute;
+}
+.showcontiner1 {
+  height: 150px;
+  width: 95%;
+  margin: 90px 30px 30px 30px;
+  border-radius: 10px;
+  position: absolute;
+}
+.book {
+  display: flex;
+}
+.book img {
+  margin: 12px;
+}
+.contentcard {
+  color: #37314e;
+  margin: 12px;
+  width: 80%;
+}
+.contentcard p {
+  margin-top: 20px;
+}
+.showbtn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10px;
+}
+.showbtn button {
+  font-size: 1rem;
+  height: 30px;
+  width: 100px;
+  background-color: #37314e;
+  border-radius: 15px;
+  border: 0px;
+  cursor: pointer;
+  color: white;
+  margin: 10px;
+  font-weight: bold;
+}

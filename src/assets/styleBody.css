@@ -1,0 +1,10 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-size: 100%;
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
